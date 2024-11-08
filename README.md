@@ -26,3 +26,4 @@ This repository contains a package for running AI image generation locally. By u
 
 This package requires a `safetensol` file as a material, so make sure it is correctly placed in the designated location.
 
+
