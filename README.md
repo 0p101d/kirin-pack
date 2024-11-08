@@ -13,8 +13,8 @@ This repository contains a package for running AI image generation locally. By u
 
 2. **`safetensol`ファイルをパッケージ内に配置します**  
    Place the `safetensol` file within the package.
-   
-3.作業ファイル内で、`pip install .`を実行し、パッケージ化します
+    
+3. 作業ファイル内で、`pip install .`を実行し、パッケージ化します
 
 4. **指定した画像生成設定に基づき、画像をローカルで生成できます**  
    Generate images locally based on your specified image generation settings.
